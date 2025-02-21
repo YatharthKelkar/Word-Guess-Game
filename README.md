@@ -6,8 +6,6 @@ A fun and interactive word-guessing game where players try to guess a hidden wor
 
 ✅ Limited attempts to make the game more exciting
 
-✅ Stylish UI with animations and effects
-
 ✅ Responsive design for a smooth experience on all devices
 
 Test your vocabulary and have fun guessing words!
